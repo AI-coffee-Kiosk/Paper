@@ -1,5 +1,5 @@
 ---------
-# Evaluating LLaMA Model for Enhanced Conversational AI in Voice Recognition Kiosks
+# Evaluating LLaMA Model for Enhanced Conversational AI in Voice Recognition Kiosks: A Case Study on RASA vs LLaMA.
 
 ## 📄 Research Paper Overview
 
