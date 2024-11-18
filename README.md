@@ -76,10 +76,5 @@ The study concludes that:
 
 ## 💬 Contact
 
-For any questions or further discussions about this research, please feel free to reach out:
-
-- Lath Nishtha (nishtha775@gmail.com)
-- Mehmet Fatih Karakurt (m.fatih012001@gmail.com)
-- Yeonggyun Cho (cyg0828@gmail.com)
-- Jisoo Ryu (gnt700@dreamideasoft.net)
+For any questions or further discussions about this research, please feel free to reach out.
 -------
